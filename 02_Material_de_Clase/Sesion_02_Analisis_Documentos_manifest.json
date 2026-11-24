@@ -1,0 +1,32 @@
+{
+  "module_id": "Sesion_02_Analisis_Documentos",
+  "notebook_id": "5dc91e6b-a7a6-4220-b28e-935e8b41d6a5",
+  "course": "teach-laoz-ai-course",
+  "source_files": [
+    "Sesion_02_Analisis_Documentos.md"
+  ],
+  "artifacts": {
+    "infographic": {
+      "status": "already_exists",
+      "path": "D:\\repos\\my\\teach\\teach-laoz-courses-generator\\cursos\\teach-laoz-ai-course\\02_Material_de_Clase\\Sesion_02_Analisis_Documentos_infografia.png",
+      "size_bytes": 7413495
+    },
+    "video": {
+      "status": "success",
+      "path": "D:\\repos\\my\\teach\\teach-laoz-courses-generator\\cursos\\teach-laoz-ai-course\\02_Material_de_Clase\\Sesion_02_Analisis_Documentos_video.mp4",
+      "size_bytes": 33890008
+    },
+    "slides": {
+      "status": "error_trigger",
+      "error": "The server rejected this request (unauthenticated)."
+    },
+    "audio": {
+      "status": "error_trigger",
+      "error": "The server rejected this request (unauthenticated)."
+    },
+    "quiz": {
+      "status": "error_trigger",
+      "error": "The server rejected this request (unauthenticated)."
+    }
+  }
+}

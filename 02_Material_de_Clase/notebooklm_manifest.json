@@ -1,0 +1,30 @@
+{
+  "module_id": "Sesion_03_Automatizacion_Inteligente",
+  "notebook_id": "76181954-7c4c-4194-9b3d-1ba3f589fae1",
+  "course": "teach-laoz-ai-course",
+  "source_files": [
+    "Sesion_03_Automatizacion_Inteligente.md"
+  ],
+  "artifacts": {
+    "video": {
+      "status": "error_trigger",
+      "error": "API rate limit or quota exceeded. Please wait before retrying. (Upstream: Resource exhausted.)"
+    },
+    "slides": {
+      "status": "error_trigger",
+      "error": "API rate limit or quota exceeded. Please wait before retrying. (Upstream: Resource exhausted.)"
+    },
+    "audio": {
+      "status": "error_trigger",
+      "error": "API rate limit or quota exceeded. Please wait before retrying. (Upstream: Resource exhausted.)"
+    },
+    "infographic": {
+      "status": "error_trigger",
+      "error": "API rate limit or quota exceeded. Please wait before retrying. (Upstream: Resource exhausted.)"
+    },
+    "quiz": {
+      "status": "error_trigger",
+      "error": "API rate limit or quota exceeded. Please wait before retrying. (Upstream: Resource exhausted.)"
+    }
+  }
+}
